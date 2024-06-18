@@ -91,9 +91,28 @@ By providing these features, your to-do project serves as a robust tool for task
 3. You have now copied the program/project to your Github account and can now edit it.
 
 4. Click on the Code sign and copie the URL:
-   ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/21d325e4-112b-4587-b11a-fe75a859969c)
 
+    ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/21d325e4-112b-4587-b11a-fe75a859969c)
+
+5. Next, go to the bottom right here in the Visual Studio Code:
+
+![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/89d3e967-11de-4270-b2ca-66ee23d2ce49)
+
+6. Then select "Clone Respository in Container Volume":
+
+![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/5557e480-d050-48df-bba9-585bd734f195)
+
+7. Then you have to paste the copied link from your program here and press Enter:
+
+   ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/3392a762-3e82-4f7f-b0fb-26a20988b449)
+
+8. Now you should be able to view the program in Visual Studio and with the command "streamlit run app.py" you can execute the program:
+
+ ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/c8e93f3d-74d2-4b4f-892f-f4895c15a2e5)
+
+9. This is what the start page looks like:
+
+
+---------------------------------------------------------------
    
-
-
-
+Nun wünsche ich dir viel Spass mit meinem Projekt. 
