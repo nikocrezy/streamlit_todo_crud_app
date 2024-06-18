@@ -1,6 +1,6 @@
 I will show you exactly what the project does and explain how you can use it for yourself. 
 Lets Start! 
-------------------------------------
+---------------------------------------------------------------
 What does this project actually do?
 
 Certainly! Here's a detailed explanation of your to-do project, highlighting its features and functionalities:
@@ -74,3 +74,26 @@ Your to-do project is a web application built with Streamlit, allowing users to 
   - Enabling shared to-do lists for team collaboration.
 
 By providing these features, your to-do project serves as a robust tool for task management, enhancing users' ability to stay organized and on top of their responsibilities.
+
+---------------------------------------------------------------
+
+**Now I will show you how you can use this program for yourself.** 
+
+1. First, go to my profile and select this project.
+   You should then be taken to this page:
+
+   ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/f728b1bb-b917-47fb-b96c-38c2353a3545)
+
+2. Now click on the fork sign at the top right, you can rename the project as you like and then click on Creat Fork:
+   
+   ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/28b66c5d-330e-4b1f-ab63-c88d6295516a)
+
+3. You have now copied the program/project to your Github account and can now edit it.
+
+4. Click on the Code sign and copie the URL:
+   ![image](https://github.com/nikocrezy/streamlit_todo_crud_app/assets/149506966/21d325e4-112b-4587-b11a-fe75a859969c)
+
+   
+
+
+
