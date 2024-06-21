@@ -112,7 +112,10 @@ By providing these features, your to-do project serves as a robust tool for task
 
 9. This is what the start page looks like:
 
+    ![image](https://github.com/nikocrezy/streamlit_todo_crud_project/assets/149506966/11b296dd-66fb-4040-9f57-fde3262dd4c1)
+
+
 
 ---------------------------------------------------------------
    
-Nun wünsche ich dir viel Spass mit meinem Projekt. 
+**Now I hope you have fun with my project.**
