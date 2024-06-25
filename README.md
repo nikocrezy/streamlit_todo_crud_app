@@ -16,4 +16,5 @@ Streamlit ToDo CRUD App
 + Update
 + Delete
 
-
+Alternativ kann der Container auch über Docker Hub geladen werden: dockerexpert87/todo
+    
