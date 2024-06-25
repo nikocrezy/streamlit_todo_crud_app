@@ -12,8 +12,5 @@
                 "qwtel.sqlite-viewer"
             ]
         }
-    },
-    "features": {
-        "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
     }
 }
